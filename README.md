@@ -1,0 +1,1 @@
+tarot-APP VERSION 2.0
