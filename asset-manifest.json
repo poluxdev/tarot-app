@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tarot-app/static/css/main.7d2cd6a0.css",
+    "main.js": "/tarot-app/static/js/main.c735d6f8.js",
+    "static/js/453.9aa0038d.chunk.js": "/tarot-app/static/js/453.9aa0038d.chunk.js",
+    "static/media/orion.jpg": "/tarot-app/static/media/orion.2182ec9d228f97499b11.jpg",
+    "index.html": "/tarot-app/index.html",
+    "main.7d2cd6a0.css.map": "/tarot-app/static/css/main.7d2cd6a0.css.map",
+    "main.c735d6f8.js.map": "/tarot-app/static/js/main.c735d6f8.js.map",
+    "453.9aa0038d.chunk.js.map": "/tarot-app/static/js/453.9aa0038d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2cd6a0.css",
+    "static/js/main.c735d6f8.js"
+  ]
+}
